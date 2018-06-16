@@ -29,6 +29,8 @@ Uses the following sources:
 * [requests](https://pypi.python.org/pypi/requests)
 * [dnspython](https://pypi.python.org/pypi/dnspython)
 
+Install on Ubuntu via `apt-get install python3 python3-pip python3-requests python3-dnspython`
+
 These packages need to be installed to run the update script.
 
 ### Configure BIND
